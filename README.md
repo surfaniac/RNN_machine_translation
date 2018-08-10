@@ -1,6 +1,5 @@
 # Machine Translation Project
-This is a project from the natural language processing nanodegree from udacity
-
+Project inspired from the Udacity NLP-Nanodegree
 (https://br.udacity.com/course/natural-language-processing-nanodegree--nd892)
 
 In this notebook, we will build a deep neural network that functions as part of an end-to-end machine translation pipeline. Your completed pipeline will accept English text as input and return the French translation.
